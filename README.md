@@ -1,6 +1,6 @@
 # Amazon Fine Food Reviews Analysis.
 
-<img src='images/amazon.jpg'>
+<img src='amazon.jpg'>
 
 Image from: https://evantamle.wordpress.com/2015/05/11/sentiment-analysis-of-amazon-fine-foods-reviews/
 
